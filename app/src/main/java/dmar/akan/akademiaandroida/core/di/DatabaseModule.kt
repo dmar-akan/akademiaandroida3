@@ -20,4 +20,3 @@ val databaseModule = module {
         CharactersRepository(charactersDao = get())
     }
     */
-}
