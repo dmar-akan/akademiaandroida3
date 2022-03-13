@@ -1,5 +1,4 @@
 ext {
-
     def appCompatVersion = "1.4.1"
     def coreKtxVersion = "1.7.0"
     def constraintLayoutVersion = "2.1.2"

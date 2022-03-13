@@ -3,8 +3,8 @@ package dmar.akan.akademiaandroida.core.di
 import org.koin.dsl.module
 
 val databaseModule = module {
-
-    /*single {
+/*
+    single {
         Room.databaseBuilder(
             androidApplication(),
             CharactersDatabase::class.java,
@@ -18,5 +18,5 @@ val databaseModule = module {
 
     factory<CharactersRepository> {
         CharactersRepository(charactersDao = get())
-    }*/
-}
+    }
+    */
